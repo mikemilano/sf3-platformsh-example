@@ -1,4 +1,4 @@
-# Will not build
+# Symfony3, PostgreSQL, Platform.sh Build Problem
 
 ## 1) Started with platform.sh 3.0 base on 10/3/2016
 
