@@ -1,0 +1,3 @@
+postgresdb:
+    type: postgresql:9.3
+    disk: 2048
